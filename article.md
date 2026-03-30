@@ -364,10 +364,11 @@ Several criticisms can therefore be raised. Firstly, our research is exploratory
 
 However, our research also has its strengths. Firstly, we can highlight an original link between the history of education and GenAI. Through our approach, we have established a unique dialogue between the historical approach and the critical analysis of GenAI. We have done so while exploring trails for thinking about the training of future teachers in GenAI in a context marked by a reconfiguration of access to knowledge. Secondly, to bring understanding trails to our problem, we have adopted a mixed methodological approach that requires us to step outside our respective fields of expertise and exchange perspectives. This brings us to our third and final strength: the interdisciplinary nature of our team, which brings together specialists in the history of education, philosophy, technology and engineering sciences, and in teacher training. This collaborative work forced us to clarify our respective approaches and to engage in dialogue about our usual approaches and analytical frameworks to co-construct a common language for addressing our research subject, which is also at the intersection of several disciplines. This process of clarification and constant confrontation was a powerful driver of scientific creativity, while opening original action trails to grasp the challenges of GenAI, the historical approach and professional practice.
 
-
+<!-- #region tags=["hidden"] -->
 ## Bibliography
+<!-- #endregion -->
 
-
+<!-- #region tags=["hidden"] -->
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|22732367/BTP6BM2N"></i>Alombert, A. (2024). From Digital Automation to Noetic Proletarianization A Stieglerian Analysis of “Reticulated Artificial Intelligence.” <i>Philosophy Today</i>, <i>68</i>(3), 497–517. <a href="https://doi.org/10.5840/philtoday202466532">https://doi.org/10.5840/philtoday202466532</a></div>
@@ -445,7 +446,7 @@ However, our research also has its strengths. Firstly, we can highlight an origi
   <div class="csl-entry"><i id="zotero|22732367/BWHG9J9J"></i>Wagnon, S. (2018). L’histoire de l’éducation au sein des sciences de l’éducation : un champ de recherche passerelle ? <i>Éducation et Socialisation [En Ligne]</i>, <i>50</i>. <a href="https://doi.org/10.4000/edso.5174">https://doi.org/10.4000/edso.5174</a></div>
 </div>
 <!-- BIBLIOGRAPHY END -->
-
+<!-- #endregion -->
 
 ## Appendix
 
