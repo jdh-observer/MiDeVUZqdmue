@@ -171,11 +171,13 @@ We argue that controversies concerning the functioning of GenAI and the historic
 
 In our case, this involves contextualising the two themes covered. The aim of this approach is to encourage students to question how the technique deployed by GenAI works and what actions are required in terms of historical, educational and professional approaches. Students will therefore examine how the GenAI works when it comes to reconstructing historical thinking or educational approaches and will put the GenAI outputs into perspective using a historical approach.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ## Method
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### A design approach
+<!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"jatvp": [{"id": "22732367/ESFQP82G", "source": "zotero"}], "xd3t9": [{"id": "22732367/KCEBK8KZ", "source": "zotero"}]}} tags=["hermeneutics"] -->
 A Design Based Research approach (<cite id="jatvp"><a href="#zotero%7C22732367%2FESFQP82G">(Barab &#38; Squire, 2004)</a></cite>) enables us to design, implement and improve our training program. This method enables us to clarify and test our design hypotheses, as well as to design and improve our training program in an iterative process (<cite id="xd3t9"><a href="#zotero%7C22732367%2FKCEBK8KZ">(Perrin et al., 2025)</a></cite>). As part of this approach, we therefore draw up design hypotheses that guide the design of our training program. The implementation of all or part of this program then enables us to test and revise our design hypotheses, or the way we operationalise them in the training program.
@@ -185,10 +187,13 @@ A Design Based Research approach (<cite id="jatvp"><a href="#zotero%7C22732367%2
 To operationalise our approach and set up our exploratory research, we construct our design hypotheses with reference to (<cite id="9sl2h"><a href="#zotero%7C22732367%2FR6EN794Y">(Knibbe, 2016)</a></cite>). He proposes three parts: a) understanding or describing the phenomenon that we need to consider, namely the (potentially) instrumented activity of students, b) the characteristics of the programs that we can influence to guide the instrumented activity of students, and c) the expected effect on the instrumented activity of students. We therefore formulate our hypotheses as follows: a) given such phenomenon(s), b) by acting on such characteristic(s), c) we hope to obtain such effect(s).
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Design hypotheses
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 As part of this design-oriented research, we are testing the following hypotheses:
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 **Hypothesis 1:** a) Given the paradox for students of having to question the relevance of the generated texts while not being experts in the field, and given that a comparative approach allowing them to examine similarities and differences is one way of addressing this paradox, b) the training program aims to compare the results obtained using AI, the historical approach and the functioning of GenAI c) in order to promote the development of critical thinking, which consists of identifying different results and hypothesising about the origin of these differences.
@@ -230,8 +235,9 @@ In this context, this seminar provides a particularly relevant setting for intro
 
 Finally, although the instructional design is situated within the field of the history of education, the issues it raises extend beyond this domain alone. The confrontation with GenAI outputs and the examination of the conditions under which knowledge claims are validated can be transposed to other disciplines, insofar as they involve critical engagement with digital tools, the relationship to knowledge, and the development of transversal professional competencies such as reflexivity and the capacity to problematize. In this respect, the proposed sequences exhibit potential for transferability beyond the teaching of history alone.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Teaching sequences
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 Two three-hour teaching sequences were designed and implemented within a module taught over one semester at a rate of three hours per week (Appendix 2). The first was designed before the start of the module. The second was designed to complement the first. The design assumptions were reviewed and refined by the research team between the first and second sequences.
@@ -263,10 +269,13 @@ This research was conducted during the autumn semester of 2025 at HEP Vaud. It w
 The audience for this research consists of a group of nine students (including two men, with an average age of 23) enrolled in this training seminar. The participants in this study reported that they regularly use GenAI tools, with 62% of them using them specifically for training purposes. In this context, GenAI tools are used to better understand or explore topics in greater depth (50%) or as a tool to save time (38%). The GenAI tool most used by our audience is ChatGPT. Most of the people involved use these GenAI tools several times a week. However, they do not consider themselves to be very proficient in GenAI tools, and their training in GenAI tools has mainly been self-taught or with the help of peers.
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Data construction and analysis
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 #### Participant observation
+<!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"khy55": [{"id": "22732367/GWXQ9QKI", "source": "zotero"}]}} tags=["hermeneutics"] -->
 A participant observation approach was conducted by one of the authors involved in the training. This two-step approach (<cite id="khy55"><a href="#zotero%7C22732367%2FGWXQ9QKI">(Beaud &#38; Weber, 2003)</a></cite>) consisted first of taking notes after each training session, adopting three complementary attitudes: a) avoiding preconceived tought through a game of proximity/distance, b) being sensitive to the needs of the students and the nature of the support offered by focusing on the variability of their actions, and c) establishing a horizon of expectation by recalling the training objectives and key points of the design hypotheses before the training, then setting them aside to welcome the unexpected. In a second stage, the notes were reread and supplemented based on the design assumptions. This approach made it possible to re-immerse oneself in the session, recall activity configurations, describe relevant elements and outline analysis trails.
@@ -276,7 +285,9 @@ A participant observation approach was conducted by one of the authors involved 
 This participant observation is part of a research-training approach that combines three roles: trainer, designer and researcher (<cite id="b4ggf"><a href="#zotero%7C22732367%2F2SLK5KN3">(Perrin et al., 2022)</a></cite>). The articulation of these three positions was made possible by drawing on the collective of trainers involved in the training to guide educational decisions, considering the ecology of the training, and on the collective of researchers to achieve the best compromises between the multiple constraints associated with the research-training approach. The articulation of these three positions made it possible to design the training program in a way that was consistent with its use (<cite id="4ewra"><a href="#zotero%7C22732367%2FLAZ5TY7R">(Béguin &#38; Cerf, 2004)</a></cite>).
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 #### Questionnaire
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 In addition, a questionnaire (Appendix 3) was designed to better understand what was significant for students in terms of integrating GenAI into a historical approach to critical thinking training. The aim was to better understand how the two training sequences influenced the relationship with GenAI, in terms of usage, representations and the ability to exercise constructive doubt when faced with the writings produced during the training.
@@ -455,8 +466,9 @@ However, our research also has its strengths. Firstly, we can highlight an origi
 <!-- BIBLIOGRAPHY END -->
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 ## Appendix
-
+<!-- #endregion -->
 
 ### The figure of Henri Roorda
 
@@ -483,7 +495,9 @@ The fear of losing his livelihood undoubtedly contributed to his use of the pseu
 His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (<cite id="egh0t"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>, p.28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Teaching sequence 03.10.2025
+<!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["Teaching sequence 03.10.2025"]}} tags=["hermeneutics", "table-sequence-*"] -->
 | Activities | Objectives | Approach | Comments |
@@ -495,7 +509,9 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Teaching sequence 10.10.2025
+<!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["Teaching sequence 10.10.2025"]}} tags=["hermeneutics", "table-sequence-*"] -->
 | Activities | Objectives | Approach | Comments |
@@ -506,7 +522,9 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Questionnaire
+<!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["Questionnaire"]}} tags=["hermeneutics", "table-questionnaire-*"] -->
 **PART I – General Information**  
@@ -630,7 +648,9 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Operationalisation table
+<!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["Operationalisation table"]}} tags=["hermeneutics", "table-operationalisation-*"] -->
 | Concept            | Indicator | Data Collection Tool |
