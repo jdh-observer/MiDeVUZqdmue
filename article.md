@@ -13,7 +13,7 @@ jupyter:
     name: python3
 ---
 
-<!-- #region tags=["title"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["title"] -->
 # In Search of Truth: History of Education and the Use of GenAI, A Way To Train Reflective Teachers?!
 <!-- #endregion -->
 
@@ -387,8 +387,8 @@ Overall, both the discussions and the responses provided in the questionnaire sh
 
 This exploratory research opens reflection on several elements. Firstly, the system put in place has shown that the historical approach can be used as a tool for reflecting on the mechanisms of GenAI production and their limitations. In other words, the research results shown that, in the context of teacher training, the history of education provides fertile ground for collective reflection on the tensions between the probabilistic functioning of GenAI (and their production) and the requirements of the historical approach. This has enabled us to answer our first hypothesis.
 
-<!-- #region citation-manager={"citations": {"mqi7x": [{"id": "22732367/QBWKP76I", "source": "zotero"}], "o6o0a": [{"id": "22732367/5G92Q5BB", "source": "zotero"}], "zkrzd": [{"id": "22732367/QPIJLE6S", "source": "zotero"}]}} -->
-We acknowledge that our first hypothesis is broad. It is nonetheless non-trivial, as fostering critical thinking is not self-evident in a context where widely disseminated GenAI prioritize extreme usability <cite id="o6o0a"><a href="#zotero%7C22732367%2F5G92Q5BB">(Dilger, 2006)</a></cite>.<cite id="mqi7x"><a href="#zotero%7C22732367%2FQBWKP76I">(Albrecht-Crane, 2025)</a></cite> highlights these issues in relation to the use of NotebookLM. We also recognize the need to further specify our Design-Based Research approach to make explicit our conjecture maps and research trajectories, particularly by clarifying how the learning environment supports mediating processes (<cite id="zkrzd"><a href="#zotero%7C22732367%2FQPIJLE6S">(Sandoval, 2014)</a></cite>).
+<!-- #region citation-manager={"citations": {"mqi7x": [{"id": "22732367/QBWKP76I", "source": "zotero"}], "o6o0a": [{"id": "22732367/5G92Q5BB", "source": "zotero"}], "zkrzd": [{"id": "22732367/QPIJLE6S", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+We acknowledge that our first hypothesis is broad. It is nonetheless non-trivial, as fostering critical thinking is not self-evident in a context where widely disseminated GenAI prioritize extreme usability (<cite id="o6o0a"><a href="#zotero%7C22732367%2F5G92Q5BB">(Dilger, 2006)</a></cite>). (<cite id="mqi7x"><a href="#zotero%7C22732367%2FQBWKP76I">(Albrecht-Crane, 2025)</a></cite>) highlights these issues in relation to the use of NotebookLM. We also recognize the need to further specify our Design-Based Research approach to make explicit our conjecture maps and research trajectories, particularly by clarifying how the learning environment supports mediating processes (<cite id="zkrzd"><a href="#zotero%7C22732367%2FQPIJLE6S">(Sandoval, 2014)</a></cite>).
 <!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"boftp": [{"id": "22732367/CFS4GG63", "source": "zotero"}]}} -->
@@ -475,15 +475,15 @@ However, our research also has its strengths. Firstly, we can highlight an origi
 
 Born on 30 November 1870 in Belgium, Henri Roorda arrived in Switzerland with his family and settled in the Lake Geneva region in 1872. He lived there until his suicide on 7 November 1925. Throughout his life, he questioned the place of pupils in the school system and practices that encouraged their activity.
 
-<!-- #region citation-manager={"citations": {"bhscq": [{"id": "22732367/QJJ2P6LC", "source": "zotero"}], "h625q": [{"id": "22732367/F9AG888Q", "source": "zotero"}], "ny7rh": [{"id": "22732367/U3KEUQIF", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"bhscq": [{"id": "22732367/QJJ2P6LC", "source": "zotero"}], "h625q": [{"id": "22732367/F9AG888Q", "source": "zotero"}], "ny7rh": [{"id": "22732367/U3KEUQIF", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 Influenced from an early age by his father's friends (including Pierre Kopotkine, Elisée Reclus and Ferdinand Domela Nieuwenhius), Henri Roorda built his educational philosophy on libertarian and anarchist principles (<cite id="ny7rh"><a href="#zotero%7C22732367%2FU3KEUQIF">(Ausoni, 2021)</a></cite>). He wrote several books, two of which were bestsellers: Le Pédagogue n'aime pas les enfants (The Teacher Does Not Like Children) (<cite id="bhscq"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>) and Avant la grande Réforme de l'an 2000 (Before the Great Reform of 2000) (<cite id="h625q"><a href="#zotero%7C22732367%2FF9AG888Q">(Roorda, 2023)</a></cite>). The first established his reputation and led readers to question and criticise the learning conditions of pupils at the time. The second seems to be more forward-looking, proposing actions and reflective approaches for teaching professionals. Far from seeking to produce scholarly texts or propose a single method, he based his reflections on observations drawn from his own professional experiences as a teacher in a girls' secondary school (1892), then at the Cantonal College and Classical Gymnasium in Lausanne (1905).
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"s6d07": [{"id": "22732367/A4HSD3EL", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"s6d07": [{"id": "22732367/A4HSD3EL", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 Henri Roorda often compares children to defendants; "and because teachers adopt the tone and methods of judges from day one, pupils naturally take on the attitude of defendants" (<cite id="s6d07"><a href="#zotero%7C22732367%2FA4HSD3EL">(Roorda, 1926)</a></cite>), which, paradoxically, is never a central concern for schoolteachers. Teachers certainly have limited scope for action, imposed by the legislator, but they nevertheless have some room for manoeuvre (promoting the interests of pupils and learning from their mistakes, integrating "useful knowledge", intellectual integrity, etc.), and it is precisely this scope for action that Roorda draws our attention to: he does not seek to reform the school, but to teach in a different way. This translates into a desire to make children happier by motivating and surprising them, which would make them more interested and, as a result, more involved in their learning, which can only improve.
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"5mrnt": [{"id": "22732367/VYDPJ6QK", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"5mrnt": [{"id": "22732367/VYDPJ6QK", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 His commitment to change did not stop there. Roorda also helped to write the Declaration of Principles of the Ferrer School in Lausanne. However, no doubt for fear of losing his job, he refrained from becoming more involved. This tension between the need to be active in a system he denounced was summed up in this letter to his friend Amédée Dubois: "Two hours in the office does not prevent one from being free in one's thoughts and actions. Unless one is rich, one must think twice before giving up one's salary. Being forced to earn a living the hard way is what takes away all freedom" (letter to Amédée Dunois, quoted by (<cite id="5mrnt"><a href="#zotero%7C22732367%2FVYDPJ6QK">(Ausoni &#38; Delacrétaz, 2025)</a></cite>, p.57).
 <!-- #endregion -->
 
@@ -491,8 +491,8 @@ His commitment to change did not stop there. Roorda also helped to write the Dec
 The fear of losing his livelihood undoubtedly contributed to his use of the pseudonym Balthazar when writing some 700 columns in various regional newspapers, some of which were very radical. This persona allowed him to express his verve, his humorous creativity and his thoughts more freely. Balthazar became such an important part of his life that he signed his last work, "Mon suicide" [1925] under both names (<cite id="96gtn"><a href="#zotero%7C22732367%2F24TYPZXS">(Ausoni &#38; Delacrétaz, 2025)</a></cite>). It should be noted that here again, Henri Roorda, ahead of his time, explored themes that are still sensitive today, such as human value, freedom to love, but above all, freedom to die.
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"egh0t": [{"id": "22732367/QJJ2P6LC", "source": "zotero"}]}} -->
-His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (<cite id="egh0t"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>, p.28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
+<!-- #region citation-manager={"citations": {"egh0t": [{"id": "22732367/QJJ2P6LC", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (<cite id="egh0t"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>, p. 28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
