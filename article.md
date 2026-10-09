@@ -479,8 +479,9 @@ His commitment to change did not stop there. Roorda also helped to write the Dec
 The fear of losing his livelihood undoubtedly contributed to his use of the pseudonym Balthazar when writing some 700 columns in various regional newspapers, some of which were very radical. This persona allowed him to express his verve, his humorous creativity and his thoughts more freely. Balthazar became such an important part of his life that he signed his last work, "Mon suicide" [1925] under both names (<cite id="96gtn"><a href="#zotero%7C22732367%2F24TYPZXS">(Ausoni &#38; Delacrétaz, 2025)</a></cite>). It should be noted that here again, Henri Roorda, ahead of his time, explored themes that are still sensitive today, such as human value, freedom to love, but above all, freedom to die.
 <!-- #endregion -->
 
-His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (Roorda, 1917, p.28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
-
+<!-- #region citation-manager={"citations": {"egh0t": []}} -->
+His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (<cite id="egh0t"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>, p.28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
+<!-- #endregion -->
 
 ### Teaching sequence 03.10.2025
 
