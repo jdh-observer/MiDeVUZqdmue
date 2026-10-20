@@ -6,14 +6,14 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.19.3
+      jupytext_version: 1.19.6
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
     name: python3
 ---
 
-<!-- #region tags=["title"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["title"] -->
 # In Search of Truth: History of Education and the Use of GenAI, A Way To Train Reflective Teachers?!
 <!-- #endregion -->
 
@@ -171,11 +171,13 @@ We argue that controversies concerning the functioning of GenAI and the historic
 
 In our case, this involves contextualising the two themes covered. The aim of this approach is to encourage students to question how the technique deployed by GenAI works and what actions are required in terms of historical, educational and professional approaches. Students will therefore examine how the GenAI works when it comes to reconstructing historical thinking or educational approaches and will put the GenAI outputs into perspective using a historical approach.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ## Method
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### A design approach
+<!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"jatvp": [{"id": "22732367/ESFQP82G", "source": "zotero"}], "xd3t9": [{"id": "22732367/KCEBK8KZ", "source": "zotero"}]}} tags=["hermeneutics"] -->
 A Design Based Research approach (<cite id="jatvp"><a href="#zotero%7C22732367%2FESFQP82G">(Barab &#38; Squire, 2004)</a></cite>) enables us to design, implement and improve our training program. This method enables us to clarify and test our design hypotheses, as well as to design and improve our training program in an iterative process (<cite id="xd3t9"><a href="#zotero%7C22732367%2FKCEBK8KZ">(Perrin et al., 2025)</a></cite>). As part of this approach, we therefore draw up design hypotheses that guide the design of our training program. The implementation of all or part of this program then enables us to test and revise our design hypotheses, or the way we operationalise them in the training program.
@@ -185,10 +187,13 @@ A Design Based Research approach (<cite id="jatvp"><a href="#zotero%7C22732367%2
 To operationalise our approach and set up our exploratory research, we construct our design hypotheses with reference to (<cite id="9sl2h"><a href="#zotero%7C22732367%2FR6EN794Y">(Knibbe, 2016)</a></cite>). He proposes three parts: a) understanding or describing the phenomenon that we need to consider, namely the (potentially) instrumented activity of students, b) the characteristics of the programs that we can influence to guide the instrumented activity of students, and c) the expected effect on the instrumented activity of students. We therefore formulate our hypotheses as follows: a) given such phenomenon(s), b) by acting on such characteristic(s), c) we hope to obtain such effect(s).
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Design hypotheses
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 As part of this design-oriented research, we are testing the following hypotheses:
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 **Hypothesis 1:** a) Given the paradox for students of having to question the relevance of the generated texts while not being experts in the field, and given that a comparative approach allowing them to examine similarities and differences is one way of addressing this paradox, b) the training program aims to compare the results obtained using AI, the historical approach and the functioning of GenAI c) in order to promote the development of critical thinking, which consists of identifying different results and hypothesising about the origin of these differences.
@@ -230,8 +235,9 @@ In this context, this seminar provides a particularly relevant setting for intro
 
 Finally, although the instructional design is situated within the field of the history of education, the issues it raises extend beyond this domain alone. The confrontation with GenAI outputs and the examination of the conditions under which knowledge claims are validated can be transposed to other disciplines, insofar as they involve critical engagement with digital tools, the relationship to knowledge, and the development of transversal professional competencies such as reflexivity and the capacity to problematize. In this respect, the proposed sequences exhibit potential for transferability beyond the teaching of history alone.
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Teaching sequences
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 Two three-hour teaching sequences were designed and implemented within a module taught over one semester at a rate of three hours per week (Appendix 2). The first was designed before the start of the module. The second was designed to complement the first. The design assumptions were reviewed and refined by the research team between the first and second sequences.
@@ -263,10 +269,13 @@ This research was conducted during the autumn semester of 2025 at HEP Vaud. It w
 The audience for this research consists of a group of nine students (including two men, with an average age of 23) enrolled in this training seminar. The participants in this study reported that they regularly use GenAI tools, with 62% of them using them specifically for training purposes. In this context, GenAI tools are used to better understand or explore topics in greater depth (50%) or as a tool to save time (38%). The GenAI tool most used by our audience is ChatGPT. Most of the people involved use these GenAI tools several times a week. However, they do not consider themselves to be very proficient in GenAI tools, and their training in GenAI tools has mainly been self-taught or with the help of peers.
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Data construction and analysis
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 #### Participant observation
+<!-- #endregion -->
 
 <!-- #region citation-manager={"citations": {"khy55": [{"id": "22732367/GWXQ9QKI", "source": "zotero"}]}} tags=["hermeneutics"] -->
 A participant observation approach was conducted by one of the authors involved in the training. This two-step approach (<cite id="khy55"><a href="#zotero%7C22732367%2FGWXQ9QKI">(Beaud &#38; Weber, 2003)</a></cite>) consisted first of taking notes after each training session, adopting three complementary attitudes: a) avoiding preconceived tought through a game of proximity/distance, b) being sensitive to the needs of the students and the nature of the support offered by focusing on the variability of their actions, and c) establishing a horizon of expectation by recalling the training objectives and key points of the design hypotheses before the training, then setting them aside to welcome the unexpected. In a second stage, the notes were reread and supplemented based on the design assumptions. This approach made it possible to re-immerse oneself in the session, recall activity configurations, describe relevant elements and outline analysis trails.
@@ -276,7 +285,9 @@ A participant observation approach was conducted by one of the authors involved 
 This participant observation is part of a research-training approach that combines three roles: trainer, designer and researcher (<cite id="b4ggf"><a href="#zotero%7C22732367%2F2SLK5KN3">(Perrin et al., 2022)</a></cite>). The articulation of these three positions was made possible by drawing on the collective of trainers involved in the training to guide educational decisions, considering the ecology of the training, and on the collective of researchers to achieve the best compromises between the multiple constraints associated with the research-training approach. The articulation of these three positions made it possible to design the training program in a way that was consistent with its use (<cite id="4ewra"><a href="#zotero%7C22732367%2FLAZ5TY7R">(Béguin &#38; Cerf, 2004)</a></cite>).
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 #### Questionnaire
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 In addition, a questionnaire (Appendix 3) was designed to better understand what was significant for students in terms of integrating GenAI into a historical approach to critical thinking training. The aim was to better understand how the two training sequences influenced the relationship with GenAI, in terms of usage, representations and the ability to exercise constructive doubt when faced with the writings produced during the training.
@@ -316,12 +327,13 @@ During the discussion, these criticisms led the students to identify the limitat
 
 Analysis of the discussions shows that some of the students seem able to identify the limitations of GenAI (particularly in terms of inaccuracy, generalisation and lack of depth in the comments generated). Some students also seem to have compared the GenAI production process to the historical approach. They criticised GenAI productions and found ways to counter them by returning to the historical approach, in particular by emphasising the importance of comparing sources. Finally, some of the students recognised the need for better training and education to be able to identify the problematic elements that characterise the content generated by GenAI. This first sequence thus seems to confirm our initial design hypothesis: the comparative experience seems to have encouraged (or facilitated) the emergence of a critical stance towards GenAI.
 
+<!-- #region citation-manager={"citations": {"1txym": [{"id": "22732367/PRBPPB6U", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+Our sequence, and particularly the support provided in adopting a historical approach, seems to have encouraged students' ability to nuance the validity of the content offered by GenAI (in this case, the reconstruction of Henri Roorda's biography), which supports our second design hypothesis. This confrontation also enabled students to highlight the generalisation of the statements made by the GenAI. It prompted them to use inductive categories of analysis to examine the GenAI output (<cite id="1txym"><a href="#zotero%7C22732367%2FPRBPPB6U">(Perrin &#38; Piot, 2024)</a></cite>, pp. 50-52), a dynamic that we mentioned in our third hypothesis. These same elements allowed students to grapple with the complexity of historical reconstruction, and in particular the importance of contextualising and comparing sources to embark on a quest for historical truth, which allows us to make a connection with our fourth hypothesis.
+<!-- #endregion -->
 
-Our sequence, and particularly the support provided in adopting a historical approach, seems to have encouraged students' ability to nuance the validity of the content offered by GenAI (in this case, the reconstruction of Henri Roorda's biography), which supports our second design hypothesis. This confrontation also enabled students to highlight the generalisation of the statements made by the GenAI. It prompted them to use inductive categories of analysis to examine the GenAI output (Perrin and Piot, 2024), a dynamic that we mentioned in our third hypothesis. These same elements allowed students to grapple with the complexity of historical reconstruction, and in particular the importance of contextualising and comparing sources to embark on a quest for historical truth, which allows us to make a connection with our fourth hypothesis.
-
-
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 Although the discussion was quite dynamic, as indicated in the trainer's notes, only two-thirds of the students participated actively. The attitude of the students who did not participate particularly led the trainer to question the relevance of the activity and the possibility of repeating the experience to involve the whole group in the discussion. These post-sequence reflections were discussed with the project group, which plans to set up a second sequence with the aim of creating a new opportunity for reflection on the issues surrounding the use of GenAI.
-
+<!-- #endregion -->
 
 As a reminder, the second sequence (10.10.2025), like the first, aims to confront students with constructive doubt. To do this, we invited the seminar group to use GenAI to trace the origins of a series of active teaching methods, such as field trips, free writing, workshops and work plans. In order to encourage a critical approach to the outputs of GenAI, while providing a clear framework for the activity, we gave the students the following instructions for creating descriptive sheets for these tools: "Use generative artificial intelligence (GenAI) to help you describe, document and analyse this tool, while taking a critical look at the information produced" while clarifying the objectives ("the aim of this activity is to understand the tool and assess the relevance of the contributions made by the GenAI used"). We then invited the students to compare the GenAI outputs with scientific studies on the concerned pedagogical tools under investigation. As in the first sequence, to measure the impact of this activity on their critical thinking and reflexivity, we scheduled a discussion session, which was recorded and transcribed. Here too, personal notes taken by one of the trainers involved in the sequence supplemented this data.
 
@@ -376,11 +388,11 @@ Overall, both the discussions and the responses provided in the questionnaire sh
 
 This exploratory research opens reflection on several elements. Firstly, the system put in place has shown that the historical approach can be used as a tool for reflecting on the mechanisms of GenAI production and their limitations. In other words, the research results shown that, in the context of teacher training, the history of education provides fertile ground for collective reflection on the tensions between the probabilistic functioning of GenAI (and their production) and the requirements of the historical approach. This has enabled us to answer our first hypothesis.
 
-<!-- #region citation-manager={"citations": {"mqi7x": [{"id": "22732367/QBWKP76I", "source": "zotero"}], "o6o0a": [{"id": "22732367/5G92Q5BB", "source": "zotero"}], "zkrzd": [{"id": "22732367/QPIJLE6S", "source": "zotero"}]}} -->
-We acknowledge that our first hypothesis is broad. It is nonetheless non-trivial, as fostering critical thinking is not self-evident in a context where widely disseminated GenAI prioritize extreme usability <cite id="o6o0a"><a href="#zotero%7C22732367%2F5G92Q5BB">(Dilger, 2006)</a></cite>.<cite id="mqi7x"><a href="#zotero%7C22732367%2FQBWKP76I">(Albrecht-Crane, 2025)</a></cite> highlights these issues in relation to the use of NotebookLM. We also recognize the need to further specify our Design-Based Research approach to make explicit our conjecture maps and research trajectories, particularly by clarifying how the learning environment supports mediating processes (<cite id="zkrzd"><a href="#zotero%7C22732367%2FQPIJLE6S">(Sandoval, 2014)</a></cite>).
+<!-- #region citation-manager={"citations": {"mqi7x": [{"id": "22732367/QBWKP76I", "source": "zotero"}], "o6o0a": [{"id": "22732367/5G92Q5BB", "source": "zotero"}], "zkrzd": [{"id": "22732367/QPIJLE6S", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+We acknowledge that our first hypothesis is broad. It is nonetheless non-trivial, as fostering critical thinking is not self-evident in a context where widely disseminated GenAI prioritize extreme usability (<cite id="o6o0a"><a href="#zotero%7C22732367%2F5G92Q5BB">(Dilger, 2006)</a></cite>). (<cite id="mqi7x"><a href="#zotero%7C22732367%2FQBWKP76I">(Albrecht-Crane, 2025)</a></cite>) highlights these issues in relation to the use of NotebookLM. We also recognize the need to further specify our Design-Based Research approach to make explicit our conjecture maps and research trajectories, particularly by clarifying how the learning environment supports mediating processes (<cite id="zkrzd"><a href="#zotero%7C22732367%2FQPIJLE6S">(Sandoval, 2014)</a></cite>).
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"boftp": [{"id": "22732367/CFS4GG63", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"boftp": [{"id": "22732367/CFS4GG63", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 Secondly, the fact that the sequence dedicated to the figure of Henri Roorda was used by students as a meaningful activity for reflecting on GenAI allowed us to emphasise that the history of education does not only play an illustrative (or even anecdotal) role, but that it is a catalyst for debate and controversy. In this regard, as the students' feedback shows, Henri Roorda's biography, marked by ideological and pedagogical tensions, among other things, lends itself well to highlighting what the reconstructions produced by the GenAI tend to smooth over (such as biographical tensions). The comparison between the narratives produced by GenAI and those reconstructed using a historical approach led students to question what had been simplified or even forgotten. Ultimately, focusing the first sequence on a historical figure such as Henri Roorda served as a catalyst: it helped to crystallise the emerging tensions between automated productions and historical reconstructions. This first sequence therefore had the merit of bringing into dialogue the epistemic issues related to reconstructions of the past and the professional and training issues related to the use of GenAI. Thus, the history of education is not only a subject to be taught, but also a lever for training reflective teachers who can question discourses, situating them and constructing a professional stance rooted in history, criticism and ethics (<cite id="boftp"><a href="#zotero%7C22732367%2FCFS4GG63">(Bandini, 2019)</a></cite>).
 <!-- #endregion -->
 
@@ -413,7 +425,7 @@ However, our research also has its strengths. Firstly, we can highlight an origi
 ## Bibliography
 <!-- #endregion -->
 
-<!-- #region tags=["hidden"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"] -->
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
 </div>
@@ -455,34 +467,40 @@ However, our research also has its strengths. Firstly, we can highlight an origi
 <!-- BIBLIOGRAPHY END -->
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} -->
 ## Appendix
-
+<!-- #endregion -->
 
 ### The figure of Henri Roorda
 
 
 Born on 30 November 1870 in Belgium, Henri Roorda arrived in Switzerland with his family and settled in the Lake Geneva region in 1872. He lived there until his suicide on 7 November 1925. Throughout his life, he questioned the place of pupils in the school system and practices that encouraged their activity.
 
-<!-- #region citation-manager={"citations": {"ny7rh": [{"id": "22732367/U3KEUQIF", "source": "zotero"}]}} -->
-Influenced from an early age by his father's friends (including Pierre Kopotkine, Elisée Reclus and Ferdinand Domela Nieuwenhius), Henri Roorda built his educational philosophy on libertarian and anarchist principles <cite id="ny7rh"><a href="#zotero%7C22732367%2FU3KEUQIF">(Ausoni, 2021)</a></cite>. He wrote several books, two of which were bestsellers: Le Pédagogue n'aime pas les enfants (The Teacher Does Not Like Children, 1917) and Avant la grande Réforme de l'an 2000 (Before the Great Reform of 2000, 1925). The first established his reputation and led readers to question and criticise the learning conditions of pupils at the time. The second seems to be more forward-looking, proposing actions and reflective approaches for teaching professionals. Far from seeking to produce scholarly texts or propose a single method, he based his reflections on observations drawn from his own professional experiences as a teacher in a girls' secondary school (1892), then at the Cantonal College and Classical Gymnasium in Lausanne (1905).
+<!-- #region citation-manager={"citations": {"bhscq": [{"id": "22732367/QJJ2P6LC", "source": "zotero"}], "h625q": [{"id": "22732367/F9AG888Q", "source": "zotero"}], "ny7rh": [{"id": "22732367/U3KEUQIF", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+Influenced from an early age by his father's friends (including Pierre Kopotkine, Elisée Reclus and Ferdinand Domela Nieuwenhius), Henri Roorda built his educational philosophy on libertarian and anarchist principles (<cite id="ny7rh"><a href="#zotero%7C22732367%2FU3KEUQIF">(Ausoni, 2021)</a></cite>). He wrote several books, two of which were bestsellers: Le Pédagogue n'aime pas les enfants (The Teacher Does Not Like Children) (<cite id="bhscq"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>) and Avant la grande Réforme de l'an 2000 (Before the Great Reform of 2000) (<cite id="h625q"><a href="#zotero%7C22732367%2FF9AG888Q">(Roorda, 2023)</a></cite>). The first established his reputation and led readers to question and criticise the learning conditions of pupils at the time. The second seems to be more forward-looking, proposing actions and reflective approaches for teaching professionals. Far from seeking to produce scholarly texts or propose a single method, he based his reflections on observations drawn from his own professional experiences as a teacher in a girls' secondary school (1892), then at the Cantonal College and Classical Gymnasium in Lausanne (1905).
 <!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"s6d07": [{"id": "22732367/A4HSD3EL", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"s6d07": [{"id": "22732367/A4HSD3EL", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 Henri Roorda often compares children to defendants; "and because teachers adopt the tone and methods of judges from day one, pupils naturally take on the attitude of defendants" (<cite id="s6d07"><a href="#zotero%7C22732367%2FA4HSD3EL">(Roorda, 1926)</a></cite>), which, paradoxically, is never a central concern for schoolteachers. Teachers certainly have limited scope for action, imposed by the legislator, but they nevertheless have some room for manoeuvre (promoting the interests of pupils and learning from their mistakes, integrating "useful knowledge", intellectual integrity, etc.), and it is precisely this scope for action that Roorda draws our attention to: he does not seek to reform the school, but to teach in a different way. This translates into a desire to make children happier by motivating and surprising them, which would make them more interested and, as a result, more involved in their learning, which can only improve.
 <!-- #endregion -->
 
-His commitment to change did not stop there. Roorda also helped to write the Declaration of Principles of the Ferrer School in Lausanne. However, no doubt for fear of losing his job, he refrained from becoming more involved. This tension between the need to be active in a system he denounced was summed up in this letter to his friend Amédée Dubois: "Two hours in the office does not prevent one from being free in one's thoughts and actions. Unless one is rich, one must think twice before giving up one's salary. Being forced to earn a living the hard way is what takes away all freedom" (letter to Amédée Dunois, quoted by Ausoni and Delacrétaz, 2025, p.57).
+<!-- #region citation-manager={"citations": {"5mrnt": [{"id": "22732367/VYDPJ6QK", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+His commitment to change did not stop there. Roorda also helped to write the Declaration of Principles of the Ferrer School in Lausanne. However, no doubt for fear of losing his job, he refrained from becoming more involved. This tension between the need to be active in a system he denounced was summed up in this letter to his friend Amédée Dubois: "Two hours in the office does not prevent one from being free in one's thoughts and actions. Unless one is rich, one must think twice before giving up one's salary. Being forced to earn a living the hard way is what takes away all freedom" (letter to Amédée Dunois, quoted by (<cite id="5mrnt"><a href="#zotero%7C22732367%2FVYDPJ6QK">(Ausoni &#38; Delacrétaz, 2025)</a></cite>, p. 57).
+<!-- #endregion -->
 
-<!-- #region citation-manager={"citations": {"96gtn": [{"id": "22732367/24TYPZXS", "source": "zotero"}]}} -->
+<!-- #region citation-manager={"citations": {"96gtn": [{"id": "22732367/24TYPZXS", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
 The fear of losing his livelihood undoubtedly contributed to his use of the pseudonym Balthazar when writing some 700 columns in various regional newspapers, some of which were very radical. This persona allowed him to express his verve, his humorous creativity and his thoughts more freely. Balthazar became such an important part of his life that he signed his last work, "Mon suicide" [1925] under both names (<cite id="96gtn"><a href="#zotero%7C22732367%2F24TYPZXS">(Ausoni &#38; Delacrétaz, 2025)</a></cite>). It should be noted that here again, Henri Roorda, ahead of his time, explored themes that are still sensitive today, such as human value, freedom to love, but above all, freedom to die.
 <!-- #endregion -->
 
-His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (Roorda, 1917, p.28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
+<!-- #region citation-manager={"citations": {"egh0t": [{"id": "22732367/QJJ2P6LC", "source": "zotero"}]}} editable=true slideshow={"slide_type": ""} -->
+His writings do not seem so far removed from our current concerns as teachers and educators. If we consider our questions about the presence and use of technology in education and the colossal amounts of knowledge available via the internet or GenAI, they seem to echo the "Encyclopaedic Offices where the curious would find all the information they desire" (<cite id="egh0t"><a href="#zotero%7C22732367%2FQJJ2P6LC">(Roorda, 2017)</a></cite>, p. 28) that Roorda described more than 100 years ago. As Alain Ausoni mentions at the end of his 2021 article, we will never stop Roordaring.
+<!-- #endregion -->
 
-
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Teaching sequence 03.10.2025
+<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics", "table-sequence-*"] jdh={"module": "object", "object": {"source": ["Teaching sequence 03.10.2025"]}} -->
+<!-- #region jdh={"module": "object", "object": {"source": ["Teaching sequence 03.10.2025"]}} tags=["hermeneutics", "table-sequence-*"] -->
 | Activities | Objectives | Approach | Comments |
 |-----------|------------|----------|----------|
 | 1 | Writing a biography of Roorda with the GenAI. | Developing a biography using AI | Collecting works for analysis |
@@ -492,9 +510,11 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Teaching sequence 10.10.2025
+<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics", "table-sequence-*"] jdh={"module": "object", "object": {"source": ["Teaching sequence 10.10.2025"]}} -->
+<!-- #region jdh={"module": "object", "object": {"source": ["Teaching sequence 10.10.2025"]}} tags=["hermeneutics", "table-sequence-*"] -->
 | Activities | Objectives | Approach | Comments |
 |------------|------------|----------|----------|
 | 1 | Understanding the principles of an educational approach based on active learning methods | Developing a passport form using AI and secondary literature | Collecting work for analysis |
@@ -503,15 +523,17 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Questionnaire
+<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics", "table-questionnaire-*"] jdh={"module": "object", "object": {"source": ["Questionnaire"]}} -->
+<!-- #region editable=true jdh={"module": "object", "object": {"source": ["Questionnaire"]}} slideshow={"slide_type": ""} tags=["hermeneutics", "table-questionnaire-*"] -->
 **PART I – General Information**  
 *(Objective: collect general information)*
 
-1. **Age:**
+**1. Age:**
 
-2. **Gender:**
+2. **2. Gender:**
    - [ ] Female  
    - [ ] Male  
    - [ ] Other / Prefer not to say  
@@ -627,9 +649,11 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hermeneutics"] -->
 ### Operationalisation table
+<!-- #endregion -->
 
-<!-- #region tags=["hermeneutics", "table-operationalisation-*"] jdh={"module": "object", "object": {"source": ["Operationalisation table"]}} -->
+<!-- #region jdh={"module": "object", "object": {"source": ["Operationalisation table"]}} tags=["hermeneutics", "table-operationalisation-*"] -->
 | Concept            | Indicator | Data Collection Tool |
 |--------------------|-----------|----------------------|
 | **Critical Thinking** | - Number and relevance of critiques identified by students  <br><br> - Students’ ability to identify factual errors or simplifications in the text generated by AIs | - Audio/video recording  <br><br> - Students’ written traces  <br><br> - Post-sequence questionnaire administered to students  <br><br> - Optionally: interviews?  <br><br> - Optionally: logbook of the trainers involved in the sequence? |
