@@ -533,19 +533,19 @@ His writings do not seem so far removed from our current concerns as teachers an
 
 **1. Age:**
 
-2. **2. Gender:**
+**2. Gender:**
    - [ ] Female  
    - [ ] Male  
    - [ ] Other / Prefer not to say  
 
-3. **In which context(s) do you use generative AI?**  
+**3. In which context(s) do you use generative AI?**  
 *(multiple answers possible)*  
    - [ ] For my studies (writing, rephrasing, summarizing, preparing assignments, etc.)  
    - [ ] For my work  
    - [ ] For personal use (curiosity, creativity, leisure, etc.)  
    - [ ] Other: ____________________  
 
-4. **Which generative AI tools do you use most often?**  
+**4. Which generative AI tools do you use most often?**  
 *(multiple answers possible)*  
    - [ ] ChatGPT  
    - [ ] Copilot  
@@ -555,27 +555,27 @@ His writings do not seem so far removed from our current concerns as teachers an
    - [ ] None  
    - [ ] Other: ____________________  
 
-5. **How often do you currently use generative AI?**  
+**5. How often do you currently use generative AI?**  
    - [ ] Every day  
    - [ ] Several times a week  
    - [ ] Occasionally  
    - [ ] Rarely / never  
 
-6. **Which of the following statements best describes you?**  
+**6. Which of the following statements best describes you?**  
    - [ ] I use generative AI as practical tools to save time.  
    - [ ] I use generative AI to help me understand or explore certain topics.  
    - [ ] I am cautious about generative AI and prefer not to use them without verification.  
    - [ ] I am not yet sure how to use them in a relevant way.  
 
-7. **How would you rate your overall level of digital proficiency?**  
+**7. How would you rate your overall level of digital proficiency?**  
    *(1 = very low, 5 = very high)*  
 
-8. **Have you ever received training on artificial intelligence (AI or generative AI)?**  
+**8. Have you ever received training on artificial intelligence (AI or generative AI)?**  
    - [ ] Yes, formally (course, workshop, etc.)  
    - [ ] Yes, informally (self-training, tutorials, etc.)  
    - [ ] No  
 
-9. **What were your main motivations for using (or not using) generative AI before our discussions/sequences?**  
+**9. What were your main motivations for using (or not using) generative AI before our discussions/sequences?**  
    → *Open-ended response*  
 
 ---
@@ -583,22 +583,22 @@ His writings do not seem so far removed from our current concerns as teachers an
 **PART II – Perceptions and stance toward generative AI**  
 *(Objective: assess perceptions and stance toward generative AI)*
 
-1. **When you think about generative AI, what words or ideas come to mind spontaneously?**  
+**1. When you think about generative AI, what words or ideas come to mind spontaneously?**  
    → *Open-ended response*  
 
-2. **Which statement best reflects your current opinion about generative AI?**  
+**2. Which statement best reflects your current opinion about generative AI?**  
    - [ ] Neutral and objective tools  
    - [ ] Useful tools that require critical vigilance  
    - [ ] Potentially dangerous tools (misinformation, dependency, etc.)  
    - [ ] Other: ____________________  
 
-3. **Before our sessions, were you aware that generative AI produces reconstructions of reality influenced by its training data?**  
+**3. Before our sessions, were you aware that generative AI produces reconstructions of reality influenced by its training data?**  
    - [ ] Yes, completely  
    - [ ] Somewhat  
    - [ ] Not really  
    - [ ] Not at all  
 
-4. **How much trust did you place in the answers produced by generative AI before the training?**  
+**4. How much trust did you place in the answers produced by generative AI before the training?**  
    *(1 = no trust at all, 5 = full trust)*  
 
 ---
@@ -606,7 +606,7 @@ His writings do not seem so far removed from our current concerns as teachers an
 **PART III – Perceived effects of the sessions**  
 *(Objective: measure the perceived effects of our seminars)*
 
-1. **Did the activities carried out during our seminars help you to:**  
+**1. Did the activities carried out during our seminars help you to:**  
 *(Check the most appropriate answer for each statement)*  
 
 | **Statement** | **Yes, completely** | **Rather yes** | **Rather no** | **Not at all** |
@@ -615,30 +615,31 @@ His writings do not seem so far removed from our current concerns as teachers an
 | ...identify biases or limitations in AI outputs? | [ ] | [ ] | [ ] | [ ] |
 | ...develop a constructive attitude of doubt toward generated information? | [ ] | [ ] | [ ] | [ ] |
 
-2. **Which of the proposed activities helped you most to adopt a critical stance?**  
+**2. Which of the proposed activities helped you most to adopt a critical stance?**  
    - [ ] Analysis of historical sources with AI  
    - [ ] Comparison between texts produced by AI and by humans  
    - [ ] Collective discussions  
    - [ ] Other: ____________________  
 
-3. **What did you discover or understand that was new about generative AI thanks to this approach?**  
+**3. What did you discover or understand that was new about generative AI thanks to this approach?**  
    → *Open-ended response*  
 
-4. **After this experience, do you feel that you use generative AI differently?**  
+**4. After this experience, do you feel that you use generative AI differently?**  
    - [ ] Yes, in a more critical way  
    - [ ] Yes, but without major changes in my practices  
    - [ ] No, not really  
    - [ ] No, I use them less / not at all  
 
-5. **Today, how would you describe your level of trust in generative AI outputs?**  
+**5. Today, how would you describe your level of trust in generative AI outputs?**  
    *(1 = no trust at all, 5 = full trust)*  
 
-6. **What role do you think generative AI should play in tertiary education (HEP, University, etc.)?**  
+**6. What role do you think generative AI should play in tertiary education (HEP, University, etc.)?**  
    - [ ] Tool for support and reflection  
    - [ ] Support for training critical thinking  
    - [ ] Other: ____________________  
 
-7. *(1 = strongly disagree, 5 = strongly agree)*
+**7. Statements**
+*(1 = strongly disagree, 5 = strongly agree)*
 
 | **Statement** | **1** | **2** | **3** | **4** | **5** |
 |---------------|-------|-------|-------|-------|-------|
